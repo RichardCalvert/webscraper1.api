@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgjobaFxrvXRKambEuIZu815UUmMF1OkNpZA0CxznLMR0hjyqBy5BrQwgpOe7Vhq7r917XL17imqOhiBfaTdWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\richa\\source\\repos\\git\\webscraper1\\api\\webscraper1.api\\Web_API_004\\Web_API_004.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\htmlagilitypack\\1.11.40\\htmlagilitypack.1.11.40.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

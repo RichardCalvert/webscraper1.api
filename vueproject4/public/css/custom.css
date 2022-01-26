@@ -1,0 +1,12 @@
+.form-group.invalid input{
+    border-color: #ff0000;
+}
+
+.form-group.invalid label {
+    border-color: #ff0000;
+}
+
+.form-group.invalid invalid-message {
+    border-color: #ff0000;
+    color: #ff0000;
+}
